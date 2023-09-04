@@ -1,0 +1,21 @@
+[
+    {
+        "id":"0",
+        "name": 
+        {
+            "firstName": "Argo",
+            "lastName": "Atonmo",
+            "nickName": "Arbellius"    
+        },
+        "genome": "anadarian",
+        "traits": [],
+        "stats": {
+            "fitness": 73,
+            "reasoning": 75,
+            "awareness": 56,
+            "intuition": 48,
+            "manipulation": 61,
+            "affinity": 51
+        }
+    }
+]

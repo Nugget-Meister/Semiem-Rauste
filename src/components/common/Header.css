@@ -1,0 +1,14 @@
+.Header li {
+    list-style: none;
+    display: inline;
+
+}
+
+.Header ul {
+    padding-left: 0px;
+}
+
+.Header li a {
+    padding: 10px;
+    color: red;
+}
